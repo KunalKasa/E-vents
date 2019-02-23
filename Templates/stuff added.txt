@@ -1,0 +1,1 @@
+nav-size class added for increasing the size of navbar items, 20px
